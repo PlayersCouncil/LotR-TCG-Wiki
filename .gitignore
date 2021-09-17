@@ -1,4 +1,4 @@
 ﻿database
-wiki
+wiki/*
 !wiki/LocalSettings.php
-!wiki/resources/assets/logo.png
+!wiki/logo.png
